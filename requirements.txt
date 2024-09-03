@@ -1,0 +1,3 @@
+!pip install -q llama-index==0.10.55
+!pip install llama-index-llms-gemini==0.1.11
+!pip install jsonpath-ng
